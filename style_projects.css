@@ -8,7 +8,7 @@ th, td {
     padding: 1%;
     text-align: left;
     text-align: justify;
-    font-family:'Times New Roman', Times Light, light;
+    font-family:'Times New Roman', 'Times Light', light;
 }
 
 th {
@@ -22,11 +22,11 @@ th {
 
 .name-table-columns{
     color: white;
-    font-family: 'Times New Roman', Times Light, light;
+    font-family: 'Times New Roman', 'Times Light', light;
     height: 50px;
 }
 
-#even-row{
+.even-row{
     background-color: #b9b7b1;
     color: white;
     border: black;
